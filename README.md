@@ -53,12 +53,6 @@ Enhanced Image → Generator F → Reconstructed Echo
 
 ---
 
-##  Video Explaination
-
-[![Watch Demo](assets/thumbnail.png)](https://youtu.be/yEM8OEfaFXc)
-
----
-
 ##  Model Architecture
 
 | Component     | Details                         |
@@ -116,13 +110,6 @@ Enhanced Image → Generator F → Reconstructed Echo
 * CycleGAN
 * Gradio
 * HuggingFace Spaces
-
----
-
-## Team
-
-**TechGeeks_3.0**
-WTC Group 6 — Round 2
 
 ---
 
